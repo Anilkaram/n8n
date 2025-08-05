@@ -5,7 +5,7 @@ n8n is an open-source workflow automation platform that enables you to visually 
 - workflow
 <img width="1664" height="843" alt="image" src="https://github.com/user-attachments/assets/90297d14-2041-4b19-a8cc-9962eeb76e37" />
 - Output
-<img width="774" height="766" alt="image" src="https://github.com/user-attachments/assets/01b5997e-514b-4d67-a749-0cfe23792f28" />
+<img width="452" height="447" alt="image" src="https://github.com/user-attachments/assets/665d76c2-a498-4617-b489-2d88f9b5ae44" />
 
 # installation 
 using Docker : 
