@@ -4,8 +4,10 @@ n8n is an open-source workflow automation platform that enables you to visually 
 # A simple workflow automation triggering mail based on chat 
 - workflow
 <img width="1664" height="843" alt="image" src="https://github.com/user-attachments/assets/90297d14-2041-4b19-a8cc-9962eeb76e37" />
+
 - Output
-<img width="452" height="447" alt="image" src="https://github.com/user-attachments/assets/665d76c2-a498-4617-b489-2d88f9b5ae44" />
+<img width="2399" height="466" alt="image" src="https://github.com/user-attachments/assets/73848c9f-83f3-44e0-aa82-c8815ab311af" />
+
 
 # installation 
 using Docker : 
